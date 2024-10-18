@@ -19,10 +19,10 @@ import androidx.browser.customtabs.CustomTabColorSchemeParams
 import androidx.browser.customtabs.CustomTabsIntent
 import androidx.core.content.res.ResourcesCompat
 import androidx.webkit.WebViewAssetLoader
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.activities.InviteActivity
 import chat.revolt.api.REVOLT_APP
-import chat.revolt.databinding.SheetChangelogBinding
+import chat.peptide.databinding.SheetChangelogBinding
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import com.google.android.material.color.MaterialColors
 

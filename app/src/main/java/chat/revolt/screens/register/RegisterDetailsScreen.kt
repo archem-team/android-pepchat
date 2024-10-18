@@ -34,7 +34,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.routes.account.RegistrationBody
 import chat.revolt.api.routes.account.register
 import chat.revolt.api.routes.misc.getRootRoute

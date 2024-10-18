@@ -71,7 +71,7 @@ import androidx.core.view.inputmethod.EditorInfoCompat
 import androidx.core.view.inputmethod.InputConnectionCompat
 import androidx.core.view.setPadding
 import androidx.core.widget.addTextChangedListener
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.activities.RevoltTweenFloat
 import chat.revolt.activities.RevoltTweenInt
 import chat.revolt.api.REVOLT_FILES

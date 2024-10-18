@@ -1,7 +1,7 @@
 package chat.revolt.internals
 
 import android.content.Context
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.RevoltApplication
 import chat.revolt.api.RevoltAPI
 import chat.revolt.api.RevoltJson

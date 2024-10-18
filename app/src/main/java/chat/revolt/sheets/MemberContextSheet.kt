@@ -16,7 +16,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.text.style.TextOverflow
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.RevoltAPI
 import chat.revolt.api.routes.channel.removeMember
 import chat.revolt.components.generic.SheetButton

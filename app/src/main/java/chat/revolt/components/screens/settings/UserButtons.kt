@@ -33,7 +33,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.unit.dp
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.RevoltAPI
 import chat.revolt.api.routes.user.acceptFriendRequest
 import chat.revolt.api.routes.user.blockUser

@@ -52,8 +52,8 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
-import chat.revolt.BuildConfig
-import chat.revolt.R
+import chat.peptide.BuildConfig
+import chat.peptide.R
 import chat.revolt.api.REVOLT_BASE
 import chat.revolt.api.RevoltJson
 import chat.revolt.api.routes.misc.Root
@@ -212,7 +212,7 @@ fun AboutScreen(navController: NavController, viewModel: AboutViewModel = viewMo
                         when (viewModel.selectedTabIndex) {
                             0 -> {
                                 Image(
-                                    painter = painterResource(R.drawable.revolt_logo_wide),
+                                    painter = painterResource(R.drawable.pepchat_logo_wide),
                                     contentDescription = stringResource(R.string.about_full_name),
                                     colorFilter = ColorFilter.tint(LocalContentColor.current),
                                     modifier = Modifier

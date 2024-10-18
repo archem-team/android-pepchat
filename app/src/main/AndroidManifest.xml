@@ -31,7 +31,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:name=".RevoltApplication"
+        android:name="chat.revolt.RevoltApplication"
         android:theme="@style/Theme.Revolt"
         android:localeConfig="@xml/locale_config"
         android:enableOnBackInvokedCallback="true"
@@ -58,7 +58,7 @@
             android:resource="@color/primary" />
 
         <service
-            android:name=".c2dm.HandlerService"
+            android:name="chat.revolt.c2dm.HandlerService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
@@ -66,7 +66,7 @@
         </service>
 
         <activity
-            android:name=".activities.MainActivity"
+            android:name="chat.revolt.activities.MainActivity"
             android:exported="true"
             android:configChanges="orientation|screenSize|colorMode"
             android:windowSoftInputMode="adjustResize"
@@ -79,7 +79,7 @@
         </activity>
 
         <activity
-            android:name=".activities.InviteActivity"
+            android:name="chat.revolt.activities.InviteActivity"
             android:theme="@style/Theme.Revolt"
             android:exported="true">
             <intent-filter>
@@ -110,7 +110,7 @@
         </activity>
 
         <activity
-            android:name=".activities.ShareTargetActivity"
+            android:name="chat.revolt.activities.ShareTargetActivity"
             android:theme="@style/Theme.Revolt"
             android:exported="true">
             <intent-filter>
@@ -126,11 +126,11 @@
         </activity>
 
         <activity
-            android:name=".activities.media.ImageViewActivity"
+            android:name="chat.revolt.activities.media.ImageViewActivity"
             android:theme="@style/Theme.Revolt" />
 
         <activity
-            android:name=".activities.media.VideoViewActivity"
+            android:name="chat.revolt.activities.media.VideoViewActivity"
             android:configChanges="orientation|screenSize"
             android:theme="@style/Theme.Revolt" />
 

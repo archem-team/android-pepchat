@@ -41,7 +41,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.components.generic.SheetEnd
 import chat.revolt.components.screens.settings.AttributionItem
 import chat.revolt.internals.extensions.BottomSheetInsets

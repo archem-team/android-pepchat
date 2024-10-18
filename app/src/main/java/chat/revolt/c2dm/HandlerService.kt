@@ -10,7 +10,7 @@ import androidx.core.app.NotificationManagerCompat
 import androidx.core.app.Person
 import androidx.core.app.RemoteInput
 import androidx.core.graphics.drawable.IconCompat
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.activities.MainActivity
 import chat.revolt.api.REVOLT_BASE
 import chat.revolt.api.RevoltJson

@@ -38,7 +38,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.REVOLT_MARKETING
 import chat.revolt.components.generic.Weblink
 
@@ -62,7 +62,7 @@ fun LoginGreetingScreen(navController: NavController) {
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Image(
-                painter = painterResource(id = R.drawable.revolt_logo_wide),
+                painter = painterResource(id = R.drawable.pepchat_logo_wide),
                 colorFilter = ColorFilter.tint(LocalContentColor.current),
                 contentDescription = "Revolt Logo",
                 contentScale = ContentScale.Fit,

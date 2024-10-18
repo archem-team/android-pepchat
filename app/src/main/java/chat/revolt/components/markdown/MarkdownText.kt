@@ -35,7 +35,7 @@ import androidx.compose.ui.text.font.FontSynthesis
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.core.net.toUri
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.activities.InviteActivity
 import chat.revolt.api.REVOLT_FILES
 import chat.revolt.api.RevoltAPI

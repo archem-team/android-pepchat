@@ -24,7 +24,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.routes.onboard.OnboardingCompletionBody
 import chat.revolt.api.routes.onboard.completeOnboarding
 import chat.revolt.components.generic.FormTextField

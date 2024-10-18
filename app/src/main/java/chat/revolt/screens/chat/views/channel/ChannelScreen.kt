@@ -90,7 +90,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.documentfile.provider.DocumentFile
 import androidx.hilt.navigation.compose.hiltViewModel
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.RevoltApplication
 import chat.revolt.activities.RevoltTweenDp
 import chat.revolt.activities.RevoltTweenFloat

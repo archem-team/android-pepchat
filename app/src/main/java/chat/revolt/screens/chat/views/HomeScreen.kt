@@ -34,7 +34,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.activities.InviteActivity
 import chat.revolt.components.screens.home.LinkOnHome
 import chat.revolt.internals.extensions.zero

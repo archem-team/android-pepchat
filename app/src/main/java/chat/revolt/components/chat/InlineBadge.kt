@@ -7,7 +7,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
-import chat.revolt.R
+import chat.peptide.R
 
 enum class InlineBadge {
     Bot,

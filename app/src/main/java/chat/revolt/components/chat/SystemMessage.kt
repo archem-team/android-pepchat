@@ -26,7 +26,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.schemas.Message
 import chat.revolt.components.markdown.RichMarkdown
 

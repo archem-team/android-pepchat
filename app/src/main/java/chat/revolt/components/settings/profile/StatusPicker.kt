@@ -19,7 +19,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.components.generic.Presence
 import chat.revolt.components.generic.presenceColour
 

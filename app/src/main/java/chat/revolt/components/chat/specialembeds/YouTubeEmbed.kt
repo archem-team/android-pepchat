@@ -21,7 +21,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.viewinterop.AndroidView
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.schemas.Special
 import chat.revolt.components.chat.VideoPlayButton
 import chat.revolt.components.generic.RemoteImage

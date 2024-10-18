@@ -64,7 +64,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.activities.RevoltTweenFloat
 import chat.revolt.api.REVOLT_FILES
 import chat.revolt.callbacks.Action

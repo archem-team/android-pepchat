@@ -30,7 +30,7 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.navigation.NavController
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.RevoltAPI
 import chat.revolt.api.RevoltHttp
 import chat.revolt.api.api
@@ -147,9 +147,9 @@ fun SplashScreen(navController: NavController, viewModel: SplashScreenViewModel 
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Image(
-            painter = painterResource(id = R.drawable.revolt_logo_wide),
+            painter = painterResource(id = R.drawable.pepchat_logo_wide),
             colorFilter = ColorFilter.tint(LocalContentColor.current),
-            contentDescription = "Revolt Logo",
+            contentDescription = "PepChat Logo",
             contentScale = ContentScale.Fit,
             modifier = Modifier
                 .fillMaxWidth()

@@ -1,7 +1,7 @@
 package chat.revolt.internals
 
 import android.content.Context
-import chat.revolt.BuildConfig
+import chat.peptide.BuildConfig
 import chat.revolt.api.REVOLT_KJBOOK
 import chat.revolt.api.RevoltHttp
 import chat.revolt.api.RevoltJson

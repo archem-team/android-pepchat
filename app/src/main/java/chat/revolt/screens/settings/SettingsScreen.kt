@@ -39,8 +39,8 @@ import androidx.core.net.toUri
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.ViewModel
 import androidx.navigation.NavController
-import chat.revolt.BuildConfig
-import chat.revolt.R
+import chat.peptide.BuildConfig
+import chat.peptide.R
 import chat.revolt.activities.InviteActivity
 import chat.revolt.api.RevoltAPI
 import chat.revolt.api.settings.FeatureFlags

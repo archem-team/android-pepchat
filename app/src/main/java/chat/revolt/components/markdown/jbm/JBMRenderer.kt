@@ -50,7 +50,7 @@ import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.settings.LoadedSettings
 import chat.revolt.components.markdown.Annotations
 import chat.revolt.components.utils.detectTapGesturesConditionalConsume

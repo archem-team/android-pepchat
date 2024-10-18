@@ -56,7 +56,7 @@ android {
     compileSdk 34
 
     defaultConfig {
-        applicationId "chat.revolt"
+        applicationId "chat.peptide"
         minSdk 24
         targetSdk 34
         versionCode Integer.parseInt("001_002_003".replaceAll("_", ""), 10)
@@ -131,7 +131,7 @@ android {
 
             applicationIdSuffix ".debug"
             versionNameSuffix '+debug'
-            resValue "string", "app_name", buildproperty('build.debug.app_name', 'RVX_DEBUG_APP_NAME')
+            //resValue "string", "app_name", buildproperty('build.debug.app_name', 'RVX_DEBUG_APP_NAME')
 
             buildConfigField "String", "SENTRY_DSN", "\"${buildproperty('sentry.dsn', 'RVX_SENTRY_DSN')}\""
             buildConfigField "String", "FLAVOUR_ID", "\"${buildproperty('build.flavour_id', 'RVX_BUILD_FLAVOUR_ID')}\""
@@ -155,7 +155,7 @@ android {
             excludes += '/META-INF/{AL2.0,LGPL2.1}'
         }
     }
-    namespace 'chat.revolt'
+    namespace 'chat.peptide'
     externalNativeBuild {
         cmake {
             path file('src/main/cpp/CMakeLists.txt')

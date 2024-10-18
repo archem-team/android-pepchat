@@ -14,7 +14,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
-import chat.revolt.BuildConfig
+import chat.peptide.BuildConfig
 import chat.revolt.RevoltApplication
 import chat.revolt.api.settings.Experiments
 import chat.revolt.api.settings.LoadedSettings

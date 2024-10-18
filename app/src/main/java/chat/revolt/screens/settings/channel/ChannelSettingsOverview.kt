@@ -53,7 +53,7 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.navigation.NavController
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.activities.RevoltTweenFloat
 import chat.revolt.api.REVOLT_FILES
 import chat.revolt.api.RevoltAPI

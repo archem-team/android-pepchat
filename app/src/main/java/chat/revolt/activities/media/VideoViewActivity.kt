@@ -15,11 +15,11 @@ import androidx.fragment.app.FragmentActivity
 import androidx.lifecycle.lifecycleScope
 import androidx.media3.common.MediaItem
 import androidx.media3.exoplayer.ExoPlayer
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.REVOLT_FILES
 import chat.revolt.api.RevoltHttp
 import chat.revolt.api.schemas.AutumnResource
-import chat.revolt.databinding.ActivityVideoplayerBinding
+import chat.peptide.databinding.ActivityVideoplayerBinding
 import chat.revolt.providers.getAttachmentContentUri
 import com.google.android.material.color.MaterialColors
 import com.google.android.material.snackbar.Snackbar

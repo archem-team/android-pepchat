@@ -28,7 +28,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.realtime.DisconnectionState
 import chat.revolt.api.settings.LoadedSettings
 import chat.revolt.ui.theme.Theme

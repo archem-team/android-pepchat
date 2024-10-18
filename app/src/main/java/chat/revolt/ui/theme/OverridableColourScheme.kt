@@ -3,7 +3,7 @@ package chat.revolt.ui.theme
 import androidx.compose.material3.ColorScheme
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.toArgb
-import chat.revolt.R
+import chat.peptide.R
 import kotlinx.serialization.Serializable
 
 // Word of warning, this file is ugly, because I've had to fight a bit with the Compose compiler,

@@ -12,7 +12,7 @@ import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.core.net.toUri
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.schemas.HealthNotice
 
 @OptIn(ExperimentalMaterial3Api::class)

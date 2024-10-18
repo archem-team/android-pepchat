@@ -39,7 +39,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.NavController
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.activities.RevoltTweenFloat
 import chat.revolt.api.RevoltAPI
 import chat.revolt.api.internals.FriendRequests

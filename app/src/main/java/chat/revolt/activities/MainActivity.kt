@@ -36,8 +36,8 @@ import androidx.lifecycle.viewModelScope
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import chat.revolt.BuildConfig
-import chat.revolt.R
+import chat.peptide.BuildConfig
+import chat.peptide.R
 import chat.revolt.RevoltApplication
 import chat.revolt.api.HitRateLimitException
 import chat.revolt.api.RevoltAPI
@@ -280,10 +280,10 @@ class MainActivity : FragmentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        SentryAndroid.init(this) { options ->
-            options.dsn = BuildConfig.SENTRY_DSN
-            options.release = BuildConfig.VERSION_NAME
-        }
+//        SentryAndroid.init(this) { options ->
+//            options.dsn = BuildConfig.SENTRY_DSN
+//            options.release = BuildConfig.VERSION_NAME
+//        }
 
         window.statusBarColor = Color.Transparent.toArgb()
         WindowCompat.setDecorFitsSystemWindows(window, false)

@@ -46,7 +46,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.routes.microservices.autumn.FileArgs
 import chat.revolt.components.generic.RemoteImage
 import chat.revolt.components.generic.SheetEnd

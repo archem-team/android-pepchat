@@ -4,7 +4,7 @@ import android.os.Handler
 import android.os.Looper
 import android.util.Log
 import androidx.compose.runtime.mutableStateMapOf
-import chat.revolt.BuildConfig
+import chat.peptide.BuildConfig
 import chat.revolt.api.internals.Members
 import chat.revolt.api.realtime.DisconnectionState
 import chat.revolt.api.realtime.RealtimeSocket
@@ -49,14 +49,14 @@ import java.lang.reflect.InvocationTargetException
 import java.net.SocketException
 import chat.revolt.api.schemas.Channel as ChannelSchema
 
-const val REVOLT_BASE = "https://revolt.chat/api"
+const val REVOLT_BASE = "https://peptide.chat/api"
 const val REVOLT_SUPPORT = "https://support.revolt.chat"
 const val REVOLT_MARKETING = "https://revolt.chat"
-const val REVOLT_FILES = "https://autumn.revolt.chat"
-const val REVOLT_JANUARY = "https://jan.revolt.chat"
-const val REVOLT_APP = "https://app.revolt.chat"
+const val REVOLT_FILES = "https://peptide.chat/autumn"
+const val REVOLT_JANUARY = "https://peptide.chat/january"
+const val REVOLT_APP = "https://peptide.chat"
 const val REVOLT_INVITES = "https://rvlt.gg"
-const val REVOLT_WEBSOCKET = "wss://ws.revolt.chat"
+const val REVOLT_WEBSOCKET = "wss://peptide.chat/ws"
 const val REVOLT_KJBOOK = "https://revoltchat.github.io/android"
 
 fun String.api(): String {

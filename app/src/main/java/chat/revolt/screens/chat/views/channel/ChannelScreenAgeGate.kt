@@ -29,7 +29,7 @@ import androidx.compose.ui.text.intl.Locale
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.components.generic.DobPicker
 import chat.revolt.components.generic.DobRegion
 import kotlinx.datetime.Clock

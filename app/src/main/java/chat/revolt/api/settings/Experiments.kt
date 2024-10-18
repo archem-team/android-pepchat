@@ -3,7 +3,7 @@ package chat.revolt.api.settings
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
-import chat.revolt.BuildConfig
+import chat.peptide.BuildConfig
 import chat.revolt.RevoltApplication
 import chat.revolt.persistence.KVStorage
 

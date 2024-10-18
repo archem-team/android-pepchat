@@ -43,7 +43,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.window.Dialog
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.schemas.ChannelType
 import chat.revolt.components.screens.chat.ChannelIcon
 import chat.revolt.screens.labs.LabsFeature

@@ -5,7 +5,7 @@ import android.app.NotificationChannelGroup
 import android.app.NotificationManager
 import android.content.Context
 import androidx.core.content.ContextCompat.getSystemService
-import chat.revolt.R
+import chat.peptide.R
 
 // TODO
 //  * Add the remaining groups.

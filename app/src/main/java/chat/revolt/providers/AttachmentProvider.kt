@@ -3,8 +3,8 @@ package chat.revolt.providers
 import android.content.Context
 import android.net.Uri
 import androidx.core.content.FileProvider
-import chat.revolt.BuildConfig
-import chat.revolt.R
+import chat.peptide.BuildConfig
+import chat.peptide.R
 import chat.revolt.api.RevoltHttp
 import io.ktor.client.request.get
 import io.ktor.client.statement.readBytes

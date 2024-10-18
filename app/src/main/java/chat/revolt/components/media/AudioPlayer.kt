@@ -43,7 +43,7 @@ import androidx.compose.ui.unit.dp
 import androidx.media3.common.MediaItem
 import androidx.media3.common.Player
 import androidx.media3.exoplayer.ExoPlayer
-import chat.revolt.R
+import chat.peptide.R
 import chat.revolt.api.RevoltHttp
 import io.ktor.client.request.get
 import io.ktor.client.statement.readBytes
